@@ -17,7 +17,7 @@ Element-level CSS refers to the utilization of CSS directly on the object the st
     3.	Change the color of the h2 element to be green
     4.	Change the position of the h2 tag to be centered
     5.	Create a container for the game
-    6.	Center the game conteiner
+    6.	Center the game container
     7.	Create a grid of 9 boxes 3 across
     8.	Create black boarders on each box
     9.	Round the corners on all boxes
